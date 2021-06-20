@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+body {
+	background-color: #092756;
+	font-family: montserrat, arial, verdana;
+	color: white;
+}
+
+.login {
+	width: 400px;
+	margin: 50px auto;
+	text-align: center;
+	position: relative;
+}
+
+input {
+	padding: 10px;
+	border: 1px solid #04132a;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: montserrat;
+	background-color: #061b3c;
+	color: #75725b;
+	font-size: 13px;
+}
+
+.btn {
+	background-color: #4a77d4;
+	border: 0 none;
+	border-radius: 5px;
+	box-shadow: 0 0 0 2px #061a38;
+	width: 100%;
+	padding: 10px;
+	color: white;
+	border-top: #3762bc;
+	text-shadow: 2px 2px #6a779b;
+	font-size: 15px;
+}
